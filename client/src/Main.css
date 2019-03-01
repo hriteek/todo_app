@@ -1,0 +1,5 @@
+.btn-dark:hover {
+  color: #fff;
+  background-color: rgb(52, 58, 64) !important;
+  border-color: rgb(52, 58, 64) !important;
+}
